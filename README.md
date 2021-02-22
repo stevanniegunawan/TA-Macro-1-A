@@ -1,1 +1,16 @@
-# TA-Macro-1-A
+*********************************************
+
+Public Github Repos for Macroeconomics 1
+Muliadi Widjaja (A)
+
+By	: Stevannie Gunawan
+Updated	: February, 2021
+
+*********************************************
+
+1. Schedules:
+>> TA Session		: Every (day) @ (time), starting Feb (date)
+
+2. Link for TA Session & TA Office Hours
+Link here: 
+Password available in LINE group chat
