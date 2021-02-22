@@ -1,6 +1,6 @@
 *********************************************
 
-Public Github Repos for Macroeconomics 1
+Macroeconomics 1
 Muliadi Widjaja (A)
 
 By	: Stevannie Gunawan
