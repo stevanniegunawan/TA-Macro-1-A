@@ -1,6 +1,7 @@
 *********************************************
 
-Macroeconomics 1 - A
+Macroeconomics 1
+Muliadi Widjaja (A)
 
 By	: Stevannie Gunawan
 Updated	: February, 2021
